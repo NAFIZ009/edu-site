@@ -13,3 +13,8 @@
 .golden{
     color:gold;
 }
+.img-res{
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+}
